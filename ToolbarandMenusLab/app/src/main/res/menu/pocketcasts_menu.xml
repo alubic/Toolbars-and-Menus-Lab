@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/cast"
+        android:icon="@drawable/ic_cast_black_24dp"
+        android:title="Navigation Drawer"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_add_black_24dp"
+        android:title="Add New"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/three_dots"
+        android:icon="@drawable/ic_more_horiz_black_24dp"
+        android:title="Overflow"
+        app:showAsAction="always"/>
+
+
+</menu>
